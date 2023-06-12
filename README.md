@@ -1,1 +1,1 @@
-# MERN-tempate-for-game-center
+# MERN-Template
